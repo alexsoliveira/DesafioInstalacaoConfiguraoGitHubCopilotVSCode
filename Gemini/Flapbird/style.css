@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #70c5ce; /* Sky color */
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #fff; /* Canvas background */
+    border: 2px solid #000; /* Canvas border */
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+#score {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
